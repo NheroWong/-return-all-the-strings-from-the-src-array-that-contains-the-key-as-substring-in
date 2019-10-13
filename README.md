@@ -1,4 +1,4 @@
-Google. The question asked was given below. Just asking Leetcode community the good optimal solution for this.
+Google Question. The question asked was given below. Just asking Leetcode community the good optimal solution for this.
 
 Suppose you have an array of strings 'src' and a string 'key':
 
@@ -8,5 +8,3 @@ Now return all the strings from the 'src' array that contains the key as substri
 
 result = {"minecraftgame", innercrafttalent", "stonecrafter"}
 Because all the result starings have key i.e. "craft" in them as substring
-
-testing
